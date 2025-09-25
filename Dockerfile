@@ -10,3 +10,4 @@ EXPOSE 80
 #Exposing everything
 #Hi how are you 
 # Apache starts automatically with this image
+#Hey
